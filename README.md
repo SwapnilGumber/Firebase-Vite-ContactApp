@@ -35,7 +35,7 @@ This is a web application built using **Vite**, **React**, and **Firebase**. It 
 
 **1. Clone the repository**  
  ```bash
-   git clone https://github.com/your-username/Firebase-Contact-App.git
+   git clone https://github.com/SwapnilGumber/Firebase-Contact-App.git
    cd Firebase-Contact-App
 ```
 **2. Install dependencies**
@@ -55,7 +55,7 @@ This is a web application built using **Vite**, **React**, and **Firebase**. It 
 To deploy on Firebase Hosting:
 ```bash
     npm run build
-     firebase init
-     firebase deploy
+    firebase init
+    firebase deploy
 ```
 
